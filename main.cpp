@@ -4,4 +4,5 @@ int main()
 {
   int a = 8;
   string s="mmp";
+  float f1 = 3.4;
 }
