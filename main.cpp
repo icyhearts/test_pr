@@ -4,6 +4,7 @@
 #include<fcntl.h>
 #include<stdlib.h>
 #include<stdio.h>
+// cmt1
 int main()
 {
   int a = 8;
