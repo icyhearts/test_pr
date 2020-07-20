@@ -9,6 +9,7 @@
 // line1
 // line2
 // main1
+// main2
 int main()
 {
   int a = 8;
