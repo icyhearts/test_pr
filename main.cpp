@@ -6,6 +6,7 @@
 #include<stdio.h>
 // cmt1
 // cmt2
+// line1
 int main()
 {
   int a = 8;
