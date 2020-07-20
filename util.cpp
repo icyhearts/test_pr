@@ -2,6 +2,7 @@
 #include<util2.h>
 #include<util3.h>
 // int1
+// int2
 int add()
 {
   char c = 'm';
