@@ -4,6 +4,7 @@
 // int1
 // int2
 // feat1
+// feat2
 int add()
 {
   char c = 'm';
